@@ -1,5 +1,0 @@
-Some notes for my GitHub repository.
-
-Just testing to make sure everything works!
-
-Added a third line to my plain text file.
